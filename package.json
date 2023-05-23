@@ -1,0 +1,13 @@
+{
+  "name": "TaskFeedbackBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YanaPIIDXer/TaskFeedbackBot",
+  "author": "YanaPIIDXer <yana_p_iidxer@yahoo.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/node": "^20.2.3",
+    "typescript": "^5.0.4"
+  }
+}
